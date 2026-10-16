@@ -11,3 +11,7 @@ Implementacion del main.cpp, License, .gitignore, capturas de ejecucion y config
 ## [0.2.0] - 2026-10-15
 ### Añadido
 Implementacion de el informe
+
+## [0.3.0] - 2026-10-15
+### Añadido
+Implementacion del README.md
